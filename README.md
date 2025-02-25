@@ -1,2 +1,3 @@
-# C-lculo_N-mero_Coordinaci-n
-Programa con python para calcular el número de coordinación teniendo rdf. 
+# Calculo_Numero_Coordinacion
+Programa con python para calcular el número de coordinación teniendo los datos de la Función de distribución radial (RDF). 
+Incluye pdf donde se explica detalladamente el proceso para realizar el cálculo. 
